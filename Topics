@@ -39,9 +39,10 @@ Encapsulation
 polymorphism
 Multi threading
 Database connectivity
-Networking
-Django
-Decorators / generator / iterators 
+Decorators / generator / iterators  / dynamic args /closures pending concepts
+Networking basics
+Django basics
+
 
 Project3
 Test3
