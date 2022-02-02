@@ -193,3 +193,6 @@ print(a[5:12:5])
 print(a[3:-3:3])
 print(a[-5:-3:20])
 
+
+Pre study: https://www.w3schools.com/python/python_ref_string.asp
+
