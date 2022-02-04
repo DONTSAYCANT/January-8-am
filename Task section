@@ -228,7 +228,7 @@ string3: "Gokul 20.20"
 
 split + indexing
 
-10.30 + 12.19 + 20.20 ===> output ===> round (42.69000) 5 decimal places should be (format)
+10.30 + 12.19 + 20.20 ===> output ===> add it 42.69
 
 
 Task4:
