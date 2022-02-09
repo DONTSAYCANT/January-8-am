@@ -329,6 +329,12 @@ Tuple
 #discard 0 from set1 and set2 
 #find collection of both sets ===> set1 and set2
 
+Dict (Feb 9)
 
-
+#create a dictionary
+#{1:["english","maths","science"], 2:[10,20,30], 3:["bio-botany","bio-zoology","Algebra"]}
+#Extract "bobtn" from above dictionary
+#Extract "arbeg" from above dictionary
+#print all keys in dictionary and convert it into tuple
+#Find the average of all numbers available under key "2"
 
