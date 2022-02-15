@@ -450,6 +450,57 @@ Convert below one to tuple
 [5,4,3,6,2,7,1,2,3,4,1,2,3,4,5,6,5]
 
 
+========================
+Feb 15
+=========================
+
+
+#Task1
+
+#hackerrank Write a function
+
+#Task2
+
+#hackerrank Python If-Else
+
+#Task3
+
+#Fizz buzz
+#Get one number from user
+#5
+#Multiple of 3 ==> Fizz
+#Multiple of 5 ===> buzz
+#Multiple of 3 and 5 ===> Fizzbuzz
+#None ==> Invalid number
+
+Task4:
+
+#Get one mark from student
+#mark 0 to 100 otherwise invalid mark
+
+#50 + PASS otherwise FAIL
+#90 to 100 ===> A 
+#80 to 89 ===> B
+#70 to 79 ===> C
+#60 to 69 ===> D
+#50 to 59 ===> E
+
+#0 to 49 ===> FAIL
+
+
+#93 ===> A
+#99 ===> A
+#88 ====> B
+
+#78
+
+#VALID MARK (between 0 to 100)
+#PASS MARK ()
+
+
+
+
+
 Pre study:
 
 https://www.w3schools.com/python/gloss_python_if_statement.asp
