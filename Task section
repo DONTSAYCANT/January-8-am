@@ -467,7 +467,6 @@ Feb 15
 
 #Fizz buzz
 #Get one number from user
-#5
 #Multiple of 3 ==> Fizz
 #Multiple of 5 ===> buzz
 #Multiple of 3 and 5 ===> Fizzbuzz
@@ -476,7 +475,7 @@ Feb 15
 Task4:
 
 #Get one mark from student
-#mark 0 to 100 otherwise invalid mark
+#mark 0 to 100 Valid otherwise invalid mark
 
 #50 + PASS otherwise FAIL
 #90 to 100 ===> A 
@@ -495,8 +494,22 @@ Task4:
 #78
 
 #VALID MARK (between 0 to 100)
-#PASS MARK ()
+#PASS MARK (50 +)
+#C
 
+#65
+
+
+
+Task 5:
+
+#collect three marks from user
+#calculate mark1 + mark2 + mark3 / 100
+
+if calculate > 90 ===> Grade A
+if calculate > 75 ==> Grade B
+calculate > 50  ==> grade C
+Other wise ===> Grade D
 
 
 
