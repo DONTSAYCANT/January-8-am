@@ -11,7 +11,11 @@ Loops (while for )
 Functions in python
 
 Miniproject and project1 
-Test1 (50 marks)  Test1 (50 marks (50 mins), pass mark: 35, 25 marks mcq+ 25 marks pgms (5 pgms)) (eLigibility: Hackerrank  200 points, mini project completion, project1 completion, 75 pgms from https://www.geeksforgeeks.org/python-programming-examples/)
+Test1 (50 marks)  Test1 (50 marks (50 mins), pass mark: 35, 25 marks mcq+ 25 marks pgms (5 pgms)) 
+(eLigibility: Hackerrank  200-220 points, 
+              mini project completion, 
+              project1 completion, 
+              75 pgms from https://www.geeksforgeeks.org/python-programming-examples/)
 Test1 Date: Feb 28
 
 https://www.geeksforgeeks.org/python-programming-examples/  (75 pgms before Test1 date)
@@ -21,11 +25,11 @@ Medium level (15 - 20 days)
 Modules in python 
 Anonymous functions 
 Comprehensions 
-Collections module 
-File handling 
 Exception Handling  
-itertools module 
+File handling 
 OS and sys module 
+itertools module 
+Collections module 
 Datetime module 
 Regular expression 
 
