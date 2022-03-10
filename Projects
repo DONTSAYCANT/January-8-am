@@ -262,3 +262,16 @@ Output: Extract important info from wiki page and send it as mail
 project5: Automatic Wish sender
 
 ======================================
+
+
+Name   DOB   Details
+
+Store the content inside dictionary ===> json/excel
+common wish to everyone
+individual wishes
+
+
+
+https://github.com/Python-World/python-mini-projects
+
+
